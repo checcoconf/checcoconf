@@ -2,7 +2,6 @@
 
 # Ciao, sono Francesco Conforti 👋
 
-- 🏠 Vivo in **Italia**
 - 📚 Studente presso **I.I.S.S. Luigi dell'Erba**
 
 ### Tools: 
