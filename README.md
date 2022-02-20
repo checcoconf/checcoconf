@@ -22,7 +22,7 @@
 <code><img alt="JavaScript" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Javascript-736400_960_720.png" /></code>
 <code><img alt="PHP" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/640px-PHP-logo.svg.png" /></code>
 
-### Databases:
+### Database:
 
 <code><img alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /></code>
 
