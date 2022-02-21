@@ -35,6 +35,7 @@
 
 <code><img alt="Windows" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Windows_logo_-_2021.svg/2048px-Windows_logo_-_2021.svg.png" /></code>
 <code><img alt="Mac OS" width="40px" src="https://upload.wikimedia.org/wikipedia/it/thumb/1/1b/Classic_Mac_OS_logo.svg/1200px-Classic_Mac_OS_logo.svg.png" /></code>
+<code><img alt="iOS" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/IOS_logo.svg/1024px-IOS_logo.svg.png" /></code>
 
 ## Social
 
