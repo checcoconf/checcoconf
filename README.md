@@ -39,6 +39,8 @@
 
 ## Social
 
+<code><a href="https://t.me/checcoconf"><img alt="Telegram" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" /></a></code>
+<code><a href="mailto://francesco.conforti03@icloud.com"><img alt="Mail" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mail_%28iOS%29.svg/1200px-Mail_%28iOS%29.svg.png" /></a></code>
 <code><a href="https://www.facebook.com/francesco.conforti03"><img alt="Facebook" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/768px-Facebook_f_logo_%282019%29.svg.png" /></a></code>
 <code><a href="https://www.instagram.com/francesco.conforti"><img alt="Instagram" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/800px-Instagram_logo_2016.svg.png" /></a></code>
 <code><a href="https://www.linkedin.com/in/confortifrancesco/"><img alt="Linkedln" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" /></a></code>
