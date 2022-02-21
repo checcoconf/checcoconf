@@ -29,8 +29,8 @@
 ### Frameworks:
 
 <code><img alt="Selenium" width="40px" src="https://camo.githubusercontent.com/74ed64243ba05754329bc527cd4240ebd1c087a1/68747470733a2f2f73656c656e69756d2e6465762f696d616765732f73656c656e69756d5f6c6f676f5f7371756172655f677265656e2e706e67" /></code>
-<code><img alt="Bootstrap" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png" /></code>
 <code><img alt="Flask" width="40px" src="https://www.pngkey.com/png/detail/98-985032_flask-logo-flask-python-icon.png" /></code>
+<code><img alt="Bootstrap" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png" /></code>
 
 ### Sistemi Operativi:
 
