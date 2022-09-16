@@ -3,7 +3,7 @@
 # Ciao, sono Francesco Conforti 👋
 
 - 📚 Studente presso **Università degli Studi di Bari Aldo Moro**
-- 🎓 Informatica e Tecnologie per la Produzione del Software
+- 🎓 ***Informatica e Tecnologie per la Produzione del Software***
 
 ### Tools: 
 
