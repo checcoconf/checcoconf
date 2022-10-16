@@ -18,13 +18,13 @@
 ### Linguaggi:
 
 <code><img alt="C" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" /></code>
-<code><img alt="C#" width="40px" src="https://static.cdnlogo.com/logos/c/27/c.svg" /></code>
 <code><img alt="Java" width="40px" src="https://upload.wikimedia.org/wikipedia/it/thumb/2/2e/Java_Logo.svg/800px-Java_Logo.svg.png" /></code>
 <code><img alt="Python" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png" /></code>
 <code><img alt="HTML" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/800px-HTML5_logo_and_wordmark.svg.png" /></code>
 <code><img alt="CSS" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/640px-CSS3_logo_and_wordmark.svg.png" /></code>
 <code><img alt="JavaScript" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Javascript-736400_960_720.png" /></code>
 <code><img alt="PHP" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/640px-PHP-logo.svg.png" /></code>
+<code><img alt="Assembly" width="40px" src="https://i.pinimg.com/originals/25/a8/5d/25a85d9e5057430d82273a3c75e73014.png" /></code>
 
 ### Database:
 
