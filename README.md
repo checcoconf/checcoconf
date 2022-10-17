@@ -53,6 +53,6 @@
 ## Le mie statistiche
 
 <div align="center">
-  <img align="top" alt="Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=checcoconf&langs_count=13?layout=compact&theme=react">
+  <img align="top" alt="Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=checcoconf&langs_count=12?layout=compact&theme=react">
   <img align="center "alt="checcoconf's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=checcoconf&show_icons=true&count_private=true&theme=react">
 </div>
