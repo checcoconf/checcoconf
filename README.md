@@ -51,8 +51,5 @@
 <code><a href="https://www.linkedin.com/in/confortifrancesco/"><img alt="Linkedln" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" /></a></code>
 
 ## Le mie statistiche
-
-<div align="center">
-  <img align="top" alt="Langs" src="[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=checcoconf&layout=compact)](https://github.com/anuraghazra/github-readme-stats)">
-  <img align="center "alt="checcoconf's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=checcoconf&show_icons=true&count_private=true&theme=react">
-</div>
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=checcoconf&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=checcoconf&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
