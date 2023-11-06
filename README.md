@@ -24,7 +24,7 @@
 
 ### Documentazione:
 
-<code><img alt="Doxygen" width="40px" src="https://it.wikipedia.org/wiki/Doxygen#/media/File:Doxygen.png"/></code>
+<code><img alt="Doxygen" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Doxygen.png"/></code>
 
 ### Database:
 
