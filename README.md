@@ -9,11 +9,9 @@
 <code><img alt="IntelliJ IDEA" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png"/></code>
 <code><img alt="DataGrip" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/DataGrip.svg/2048px-DataGrip.svg.png"/></code>
 <code><img alt="Eclipse" width="40px" src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png"/></code>
-<code><img alt="Visual Studio Code" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"/></code>
 <code><img alt="Xcode" width="40px" src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/a6/72/a7/a672a7fc-187d-282b-a25e-eb2bded2596c/Xcode-85-220-0-4-2x-sRGB.png/1200x630bb.png"/></code>
-<code><img alt="Apache NetBeans" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1776px-Apache_NetBeans_Logo.svg.png"/></code>
+<code><img alt="Visual Studio Code" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"/></code>
 <code><img alt="Wireshark" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png"/></code>
-<code><img alt="XAMPP" width="40px" src="https://seeklogo.com/images/X/xampp-logo-1C1A9E3689-seeklogo.com.png"/></code>
 <code><img alt="Arduino IDE" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/ArduinoLogo_%C2%AE.svg/1920px-ArduinoLogo_%C2%AE.svg.png"/></code>
 
 ### Linguaggi:
