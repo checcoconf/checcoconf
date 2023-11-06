@@ -9,7 +9,7 @@
 
 <code><img alt="CLion" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/6/62/Clion.svg"/></code>
 <code><img alt="IntelliJ IDEA" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png"/></code>
-<code><img alt="Eclipse" width="40px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fit.m.wikipedia.org%2Fwiki%2FFile%3AEclipse-Luna-Logo.svg&psig=AOvVaw03NCConkHFUFnBxyLV6Tz6&ust=1699377648145000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPDRmZrxr4IDFQAAAAAdAAAAABAE"/></code>
+<code><img alt="Eclipse" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eclipse-Luna-Logo.svg/940px-Eclipse-Luna-Logo.svg.png"/></code>
 <code><img alt="Visual Studio Code" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" /></code>
 <code><img alt="Xcode" width="40px" src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/a6/72/a7/a672a7fc-187d-282b-a25e-eb2bded2596c/Xcode-85-220-0-4-2x-sRGB.png/1200x630bb.png" /></code>
 <code><img alt="Apache NetBeans" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1776px-Apache_NetBeans_Logo.svg.png" /></code>
