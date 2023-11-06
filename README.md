@@ -1,5 +1,3 @@
-![image](https://github.com/checcoconf/checcoconf/assets/82725386/6eba8a3b-4af5-4139-8c3a-10c78c5952b2)![](https://komarev.com/ghpvc/?username=checcoconf&&label=GitHub+profile+views)
-
 # Ciao, sono Francesco Conforti 👋
 
 - 📚 Studente presso **Università degli Studi di Bari Aldo Moro**
