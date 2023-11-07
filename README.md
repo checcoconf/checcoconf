@@ -51,5 +51,5 @@
 <code><a href="https://www.instagram.com/francesco.conforti"><img alt="Instagram" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/800px-Instagram_logo_2016.svg.png" /></a></code>
 
 ## Le mie statistiche
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=checcoconf&show_icons=true&theme=trasparent"></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=checcoconf&layout=compact&theme=transparent&hide_border=true" /></a> |
+|<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=checcoconf&show_icons=true&theme=trasparent"></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=checcoconf&layout=compact&theme=transparent&hide_border=true"/></a>|
 | ------------- | ------------- |
