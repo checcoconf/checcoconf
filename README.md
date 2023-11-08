@@ -51,5 +51,5 @@
 <code><a href="https://www.instagram.com/francesco.conforti"><img alt="Instagram" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/800px-Instagram_logo_2016.svg.png" /></a></code>
 
 ## Le mie statistiche
-<img src="https://github-readme-stats.vercel.app/api?username=checcoconf&show_icons=true&theme=transparent" alt="Francesco's Stats" height="180em">
+<code><img src="https://github-readme-stats.vercel.app/api?username=checcoconf&show_icons=true&theme=transparent" alt="Francesco's Stats" height="180em"></code>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=checcoconf&langs_count=8&layout=compact&theme=transparent" alt="Top Languages" height="180em">
