@@ -29,7 +29,7 @@
 
 ### Database:
 
-<code><img alt="MySQL" width="40px" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" /></code>
+<code><img alt="MySQL" width="40px" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png"/></code>
 
 ### Frameworks:
 
