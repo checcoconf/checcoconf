@@ -29,7 +29,7 @@
 
 ### Database:
 
-<code><img alt="MySQL" width="40px" src="https://w7.pngwing.com/pngs/384/848/png-transparent-mysql-php-database-javascript-ajax-carnifex-blue-text-logo-thumbnail.png" /></code>
+<code><img alt="MySQL" width="40px" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" /></code>
 
 ### Frameworks:
 
