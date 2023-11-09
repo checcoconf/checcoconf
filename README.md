@@ -25,6 +25,7 @@
 ### Documentazione:
 
 <code><img alt="Doxygen" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Doxygen.png"/></code>
+<code><img alt="JavaDoc" width="80px" src="https://www.konakart.com/wp-content/uploads/2014/11/javadoc.png"/></code>
 
 ### Database:
 
