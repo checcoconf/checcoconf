@@ -7,12 +7,11 @@
 
 <code><img alt="CLion" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/6/62/Clion.svg"/></code>
 <code><img alt="IntelliJ IDEA" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png"/></code>
+<code><img alt="PyCharm" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png"/></code>
 <code><img alt="DataGrip" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/DataGrip.svg/2048px-DataGrip.svg.png"/></code>
-<code><img alt="Eclipse" width="40px" src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png"/></code>
 <code><img alt="Visual Studio Code" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"/></code>
-<code><img alt="Xcode" width="40px" src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/a6/72/a7/a672a7fc-187d-282b-a25e-eb2bded2596c/Xcode-85-220-0-4-2x-sRGB.png/1200x630bb.png"/></code>
-<code><img alt="Wireshark" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png"/></code>
 <code><img alt="Arduino IDE" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/ArduinoLogo_%C2%AE.svg/1920px-ArduinoLogo_%C2%AE.svg.png"/></code>
+<code><img alt="Wireshark" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png"/></code>
 
 ### Linguaggi:
 
@@ -30,12 +29,15 @@
 ### Database:
 
 <code><img alt="MySQL" width="40px" src="https://upload.wikimedia.org/wikipedia/de/thumb/d/dd/MySQL_logo.svg/800px-MySQL_logo.svg.png"/></code>
+<code><img alt="mongoDB" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png"/></code>
 
 ### Frameworks:
 
 <code><img alt="Selenium" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png"/></code>
 <code><img alt="Flask" width="40px" src="https://www.pngkey.com/png/detail/98-985032_flask-logo-flask-python-icon.png" /></code>
 <code><img alt="Bootstrap" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png" /></code>
+<code><img alt="React" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"/></code>
+<code><img alt="Vite" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/2078px-Vitejs-logo.svg.png"/></code>
 
 ### Sistemi Operativi:
 
