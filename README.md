@@ -29,12 +29,12 @@
 ### Database:
 
 <code><img alt="MySQL" width="40px" src="https://upload.wikimedia.org/wikipedia/de/thumb/d/dd/MySQL_logo.svg/800px-MySQL_logo.svg.png"/></code>
-<code><img alt="mongoDB" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png"/></code>
+<code><img alt="mongoDB" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png"/></code>
 
 ### Frameworks:
 
 <code><img alt="Selenium" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png"/></code>
-<code><img alt="Flask" width="40px" src="https://www.pngkey.com/png/detail/98-985032_flask-logo-flask-python-icon.png" /></code>
+<code><img alt="Flask" width="60px" src="https://flask.palletsprojects.com/en/3.0.x/_images/flask-horizontal.png"/></code>
 <code><img alt="Bootstrap" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png" /></code>
 <code><img alt="React" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"/></code>
 <code><img alt="Vite" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/2078px-Vitejs-logo.svg.png"/></code>
