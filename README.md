@@ -59,3 +59,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=checcoconf&langs_count=8&layout=compact&theme=transparent" alt="Top Languages" height="180em">
 </div>
 
+## Snake
+![snake animation](https://github.com/checcoconf/checcoconf/blob/output/github-contribution-grid-snake2.svg)
+
