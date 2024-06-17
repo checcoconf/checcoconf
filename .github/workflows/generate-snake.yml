@@ -1,0 +1,27 @@
+name: Snake Game Generator
+
+on:
+  schedule:
+    - cron: "0 * * * *"  # Esegue ogni ora
+  workflow_dispatch:  # Permette di eseguire il workflow manualmente
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout the repository
+        uses: actions/checkout@v2
+
+      - name: Snake game generator from Github contributions
+        uses: Sutil/snk@v01.00.02
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          output: dist/github-contribution-grid-snake.svg
+
+      - name: Push the Snake Game to the repository
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: gh-pages
