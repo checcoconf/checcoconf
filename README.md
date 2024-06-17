@@ -58,10 +58,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=checcoconf&show_icons=true&theme=transparent" alt="Francesco's Stats" height="180em">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=checcoconf&langs_count=8&layout=compact&theme=transparent" alt="Top Languages" height="180em">
 </div>
-
-## Snake Game
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/checcoconf/checcoconf/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/checcoconf/checcoconf/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/checcoconf/checcoconf/output/github-contribution-grid-snake.svg">
-</picture>
