@@ -10,8 +10,10 @@
 <code><img alt="PyCharm" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png"/></code>
 <code><img alt="DataGrip" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/DataGrip.svg/2048px-DataGrip.svg.png"/></code>
 <code><img alt="Visual Studio Code" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"/></code>
+<code><img alt="Postman" width="40px" src="https://www.svgrepo.com/show/354202/postman-icon.svg"/></code>
 <code><img alt="Arduino IDE" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/ArduinoLogo_%C2%AE.svg/1920px-ArduinoLogo_%C2%AE.svg.png"/></code>
 <code><img alt="Wireshark" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png"/></code>
+
 
 ### Linguaggi:
 
