@@ -21,6 +21,7 @@
 <code><img alt="Java" width="40px" src="https://upload.wikimedia.org/wikipedia/it/thumb/2/2e/Java_Logo.svg/800px-Java_Logo.svg.png" /></code>
 <code><img alt="Python" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png" /></code>
 <code><img alt="JavaScript" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Javascript-736400_960_720.png" /></code>
+<code><img alt="TypeScript" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" /></code>
 <code><img alt="Assembly" width="40px" src="https://i.pinimg.com/originals/25/a8/5d/25a85d9e5057430d82273a3c75e73014.png" /></code>
 
 ### Documentazione:
@@ -31,21 +32,23 @@
 ### Database:
 
 <code><img alt="MySQL" width="40px" src="https://upload.wikimedia.org/wikipedia/de/thumb/d/dd/MySQL_logo.svg/800px-MySQL_logo.svg.png"/></code>
+<code><img alt="Postgres" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1280px-Postgresql_elephant.svg.png"/></code>
 <code><img alt="mongoDB" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png"/></code>
 
 ### Frameworks:
 
-<code><img alt="Selenium" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png"/></code>
-<code><img alt="Flask" width="60px" src="https://flask.palletsprojects.com/en/3.0.x/_images/flask-horizontal.png"/></code>
-<code><img alt="Bootstrap" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png" /></code>
+<code><img alt="Flask" width="70px" src="https://flask.palletsprojects.com/en/3.0.x/_images/flask-horizontal.png"/></code>
+<code><img alt="FastApi" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/FastAPI_logo.svg/2560px-FastAPI_logo.svg.png"/></code>
 <code><img alt="React" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"/></code>
-<code><img alt="Vite" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/2078px-Vitejs-logo.svg.png"/></code>
+<code><img alt="Tailwind" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2094px-Tailwind_CSS_Logo.svg.png" /></code>
+<code><img alt="Selenium" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png"/></code>
 
 ### Sistemi Operativi:
 
 <code><img alt="Windows" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Windows_logo_-_2021.svg/2048px-Windows_logo_-_2021.svg.png" /></code>
 <code><img alt="Mac OS" width="40px" src="https://upload.wikimedia.org/wikipedia/it/thumb/1/1b/Classic_Mac_OS_logo.svg/1200px-Classic_Mac_OS_logo.svg.png" /></code>
 <code><img alt="iOS" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/IOS_logo.svg/1024px-IOS_logo.svg.png" /></code>
+<code><img alt="TrueNAS Scale" width="90px" src="https://www.ixsystems.com/wp-content/uploads/2021/02/truenas-logo-full-color-rgb.png" /></code>
 
 ## Social
 
