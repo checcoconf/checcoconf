@@ -24,10 +24,10 @@
 <code><img alt="TypeScript" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" /></code>
 <code><img alt="Assembly" width="40px" src="https://i.pinimg.com/originals/25/a8/5d/25a85d9e5057430d82273a3c75e73014.png" /></code>
 
-### Documentazione:
+### Testing:
 
-<code><img alt="Doxygen" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Doxygen.png"/></code>
-<code><img alt="JavaDoc" width="80px" src="https://www.konakart.com/wp-content/uploads/2014/11/javadoc.png"/></code>
+<code><img alt="Selenium" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png"/></code>
+<code><img alt="JUnit5 " width="60px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/JUnit_5_Banner.png"/></code>
 
 ### Database:
 
@@ -42,10 +42,10 @@
 <code><img alt="React" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"/></code>
 <code><img alt="Tailwind" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2094px-Tailwind_CSS_Logo.svg.png" /></code>
 
-### Testing:
+### Documentazione:
 
-<code><img alt="Selenium" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png"/></code>
-<code><img alt="JUnit5 " width="60px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/JUnit_5_Banner.png"/></code>
+<code><img alt="Doxygen" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Doxygen.png"/></code>
+<code><img alt="JavaDoc" width="80px" src="https://www.konakart.com/wp-content/uploads/2014/11/javadoc.png"/></code>
 
 ### Sistemi Operativi:
 
