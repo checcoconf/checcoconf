@@ -41,14 +41,19 @@
 <code><img alt="FastApi" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/FastAPI_logo.svg/2560px-FastAPI_logo.svg.png"/></code>
 <code><img alt="React" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"/></code>
 <code><img alt="Tailwind" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2094px-Tailwind_CSS_Logo.svg.png" /></code>
+
+### Testing:
+
 <code><img alt="Selenium" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png"/></code>
+<code><img alt="JUnit5 " width="60px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/JUnit_5_Banner.png"/></code>
 
 ### Sistemi Operativi:
 
 <code><img alt="Windows" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Windows_logo_-_2021.svg/2048px-Windows_logo_-_2021.svg.png" /></code>
+<code><img alt="Linux" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1727px-Tux.svg.png"/></code>
+<code><img alt="TrueNAS Scale" width="90px" src="https://www.ixsystems.com/wp-content/uploads/2021/02/truenas-logo-full-color-rgb.png" /></code>
 <code><img alt="Mac OS" width="40px" src="https://upload.wikimedia.org/wikipedia/it/thumb/1/1b/Classic_Mac_OS_logo.svg/1200px-Classic_Mac_OS_logo.svg.png" /></code>
 <code><img alt="iOS" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/IOS_logo.svg/1024px-IOS_logo.svg.png" /></code>
-<code><img alt="TrueNAS Scale" width="90px" src="https://www.ixsystems.com/wp-content/uploads/2021/02/truenas-logo-full-color-rgb.png" /></code>
 
 ## Social
 
