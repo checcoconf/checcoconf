@@ -19,7 +19,7 @@
 ### Linguaggi:
 
 <code><img alt="C" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" /></code>
-<code><img alt="Java" width="40px" src="https://upload.wikimedia.org/wikipedia/it/thumb/2/2e/Java_Logo.svg/800px-Java_Logo.svg.png" /></code>
+<code><img alt="Java" width="35px" src="https://upload.wikimedia.org/wikipedia/it/thumb/2/2e/Java_Logo.svg/800px-Java_Logo.svg.png" /></code>
 <code><img alt="Python" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png" /></code>
 <code><img alt="JavaScript" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Javascript-736400_960_720.png" /></code>
 <code><img alt="TypeScript" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" /></code>
@@ -33,38 +33,33 @@
 
 <code><img alt="MySQL" width="40px" src="https://upload.wikimedia.org/wikipedia/de/thumb/d/dd/MySQL_logo.svg/800px-MySQL_logo.svg.png"/></code>
 <code><img alt="Postgres" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1280px-Postgresql_elephant.svg.png"/></code>
-<code><img alt="mongoDB" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png"/></code>
+<code><img alt="mongoDB" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png"/></code>
 
 ### Frameworks:
 
-<code><img alt="Flask" width="70px" src="https://flask.palletsprojects.com/en/3.0.x/_images/flask-horizontal.png"/></code>
+<code><img alt="Flask" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/2560px-Flask_logo.svg.png"/></code>
 <code><img alt="FastApi" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/FastAPI_logo.svg/2560px-FastAPI_logo.svg.png"/></code>
 <code><img alt="React" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"/></code>
 <code><img alt="Tailwind" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2094px-Tailwind_CSS_Logo.svg.png" /></code>
 
 ### Documentazione:
 
+<code><img alt="LaTex" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg"/></code>
 <code><img alt="Doxygen" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Doxygen.png"/></code>
 <code><img alt="JavaDoc" width="80px" src="https://www.konakart.com/wp-content/uploads/2014/11/javadoc.png"/></code>
 
 ### Sistemi Operativi:
 
-<code><img alt="Windows" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Windows_logo_-_2021.svg/2048px-Windows_logo_-_2021.svg.png" /></code>
-<code><img alt="Linux" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1727px-Tux.svg.png"/></code>
+<code><img alt="Windows" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Windows_logo_-_2021.svg/2048px-Windows_logo_-_2021.svg.png" /></code>
+<code><img alt="Linux" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1727px-Tux.svg.png"/></code>
 <code><img alt="TrueNAS Scale" width="90px" src="https://www.ixsystems.com/wp-content/uploads/2021/02/truenas-logo-full-color-rgb.png" /></code>
 <code><img alt="Mac OS" width="40px" src="https://upload.wikimedia.org/wikipedia/it/thumb/1/1b/Classic_Mac_OS_logo.svg/1200px-Classic_Mac_OS_logo.svg.png" /></code>
 <code><img alt="iOS" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/IOS_logo.svg/1024px-IOS_logo.svg.png" /></code>
 
 ## Social
 
-<code><a href="https://t.me/checcoconf"><img alt="Telegram" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" /></a></code>
 <code><a href="https://www.linkedin.com/in/confortifrancesco/"><img alt="Linkedln" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" /></a></code>
-<code><a href="mailto://francesco.conforti03@icloud.com"><img alt="Mail" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mail_%28iOS%29.svg/1200px-Mail_%28iOS%29.svg.png" /></a></code>
+<code><a href="https://t.me/checcoconf"><img alt="Telegram" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" /></a></code>
+<code><a href="mailto://me@checcoconf.it"><img alt="Mail" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mail_%28iOS%29.svg/1200px-Mail_%28iOS%29.svg.png" /></a></code>
 <code><a href="https://www.facebook.com/francesco.conforti03"><img alt="Facebook" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/768px-Facebook_f_logo_%282019%29.svg.png" /></a></code>
 <code><a href="https://www.instagram.com/francesco.conforti"><img alt="Instagram" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/800px-Instagram_logo_2016.svg.png" /></a></code>
-
-## Le mie statistiche
-<div style="display:flex; justify-content:center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=checcoconf&show_icons=true&theme=transparent" alt="Francesco's Stats" height="180em">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=checcoconf&langs_count=8&layout=compact&theme=transparent" alt="Top Languages" height="180em">
-</div>
