@@ -6,8 +6,8 @@
 ### Tools: 
 
 <code><img alt="CLion" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/6/62/Clion.svg"/></code>
-<code><img alt="IntelliJ IDEA" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png"/></code>
-<code><img alt="PyCharm" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png"/></code>
+<code><img alt="IntelliJ IDEA" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png"/></code>
+<code><img alt="PyCharm" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1200px-PyCharm_Icon.svg.png"/></code>
 <code><img alt="DataGrip" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/DataGrip.svg/2048px-DataGrip.svg.png"/></code>
 <code><img alt="Visual Studio Code" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"/></code>
 <code><img alt="Postman" width="40px" src="https://www.svgrepo.com/show/354202/postman-icon.svg"/></code>
@@ -19,7 +19,7 @@
 ### Linguaggi:
 
 <code><img alt="C" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" /></code>
-<code><img alt="Java" width="35px" src="https://upload.wikimedia.org/wikipedia/it/thumb/2/2e/Java_Logo.svg/800px-Java_Logo.svg.png" /></code>
+<code><img alt="Java" width="35px" src="https://upload.wikimedia.org/wikipedia/it/2/2e/Java_Logo.svg" /></code>
 <code><img alt="Python" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png" /></code>
 <code><img alt="JavaScript" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Javascript-736400_960_720.png" /></code>
 <code><img alt="TypeScript" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" /></code>
@@ -31,14 +31,14 @@
 
 ### Database:
 
-<code><img alt="MySQL" width="40px" src="https://upload.wikimedia.org/wikipedia/de/thumb/d/dd/MySQL_logo.svg/800px-MySQL_logo.svg.png"/></code>
+<code><img alt="MySQL" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/MySQL_textlogo.svg/960px-MySQL_textlogo.svg.png"/></code>
 <code><img alt="Postgres" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1280px-Postgresql_elephant.svg.png"/></code>
 <code><img alt="mongoDB" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png"/></code>
 
 ### Frameworks:
 
-<code><img alt="Flask" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/2560px-Flask_logo.svg.png"/></code>
-<code><img alt="FastApi" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/FastAPI_logo.svg/2560px-FastAPI_logo.svg.png"/></code>
+<code><img alt="Flask" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg"/></code>
+<code><img alt="FastApi" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/FastAPI_logo.svg/960px-FastAPI_logo.svg.png?20240902201856"/></code>
 <code><img alt="React" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"/></code>
 <code><img alt="Tailwind" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2094px-Tailwind_CSS_Logo.svg.png" /></code>
 
@@ -51,10 +51,10 @@
 ### Sistemi Operativi:
 
 <code><img alt="Windows" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Windows_logo_-_2021.svg/2048px-Windows_logo_-_2021.svg.png" /></code>
-<code><img alt="Linux" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1727px-Tux.svg.png"/></code>
+<code><img alt="Linux" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Icons8_flat_linux.svg/2048px-Icons8_flat_linux.svg.png"/></code>
 <code><img alt="TrueNAS Scale" width="90px" src="https://www.ixsystems.com/wp-content/uploads/2021/02/truenas-logo-full-color-rgb.png" /></code>
 <code><img alt="Mac OS" width="40px" src="https://upload.wikimedia.org/wikipedia/it/thumb/1/1b/Classic_Mac_OS_logo.svg/1200px-Classic_Mac_OS_logo.svg.png" /></code>
-<code><img alt="iOS" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/IOS_logo.svg/1024px-IOS_logo.svg.png" /></code>
+<code><img alt="iOS" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/IOS_logo.svg/960px-IOS_logo.svg.png" /></code>
 
 ## Social
 
