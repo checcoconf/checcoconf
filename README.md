@@ -20,7 +20,7 @@
 
 <code><img alt="C" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" /></code>
 <code><img alt="Java" width="35px" src="https://upload.wikimedia.org/wikipedia/it/2/2e/Java_Logo.svg" /></code>
-<code><img alt="Python" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png" /></code>
+<code><img alt="Python" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/3840px-Python-logo-notext.svg.png" /></code>
 <code><img alt="JavaScript" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Javascript-736400_960_720.png" /></code>
 <code><img alt="TypeScript" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" /></code>
 
